@@ -685,9 +685,18 @@ ul.social-buttons li a {
   border-radius: 100%;
   outline: 0;
   background-color: #212529;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
 ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
   background-color: #fed136;
 }
+
+#design {
+  color: rgb(190, 184, 184);
+  font-style: italic;
+  font-size: 14px;
+}
+
