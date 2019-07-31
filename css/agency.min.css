@@ -35,6 +35,7 @@ h6 {
 }
 .page-section {
   padding: 100px 0;
+  background-color: rgb(253, 229, 233);
 }
 .page-section h2.section-heading {
   font-size: 40px;
@@ -174,7 +175,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  opacity: 0.8;
+  opacity: 0.9;
   background-size: cover;
 }
 header.masthead .intro-text {
