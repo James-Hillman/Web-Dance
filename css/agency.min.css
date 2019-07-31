@@ -35,7 +35,11 @@ h6 {
 }
 .page-section {
   padding: 100px 0;
-  background-color: rgb(253, 229, 233);
+  background-image: url("/img/back.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-blend-mode: soft-light;
+  
 }
 .page-section h2.section-heading {
   font-size: 40px;
