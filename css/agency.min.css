@@ -35,9 +35,6 @@ h6 {
 }
 .page-section {
   padding: 100px 0;
-  background-image: url("/img/back.png");
-  background-repeat: no-repeat;
-  width: 100%;
   background-blend-mode: soft-light;
   
 }
