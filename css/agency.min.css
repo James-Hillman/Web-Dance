@@ -105,7 +105,7 @@ img::-moz-selection {
   box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
 }
 #mainNav {
-  background-color: #c4abc0;
+  background-color: #1587f8;
 }
 #mainNav .navbar-toggler {
   font-size: 12px;
@@ -179,8 +179,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   opacity: 0.7;
-  background-size: cover;
-  
+  background-size: cover; 
 
 }
 header.masthead .intro-text {
@@ -207,10 +206,6 @@ header.masthead .intro-text .intro-heading {
     "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
     "Segoe UI Symbol", "Noto Color Emoji";
 }
-
-p {
-  margin-bottom: 20px;
-}
 @media (min-width: 768px) {
   header.masthead .intro-text {
     padding-top: 300px;
@@ -235,19 +230,12 @@ p {
       "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
 }
+
+
 .service-heading {
   margin: 15px 0;
   text-transform: none;
 }
-
-form {
-  color: #1587f8;
-}
-
-input {
-  margin-bottom: 40px;
-}
-
 
 
 #portfolio .portfolio-item {
@@ -456,7 +444,7 @@ input {
   color: #fff;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #a4a555;
+  background-color: #fed136;
 }
 .timeline > li .timeline-image h4 {
   font-size: 10px;
@@ -529,7 +517,6 @@ input {
   .timeline > li {
     min-height: 150px;
   }
-
   .timeline > li .timeline-panel {
     padding: 0 20px 20px;
   }
@@ -583,6 +570,46 @@ input {
 .team-member p {
   margin-top: 0;
 }
+
+h3 {
+  margin-top: 150px;
+  margin-bottom: 60px;
+}
+
+#reviews-header {
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+p1 {
+  
+  padding: 20px;
+}
+
+p2 {
+  font-size: 15px;
+  font-style: italic;
+  
+}
+
+p3 {
+  
+  padding: 20px;
+}
+
+p4 {
+  font-size: 15px;
+  font-style: italic;
+}
+
+.fa-quote-left {
+  padding: 10px;
+}
+
+.fa-quote-right {
+  padding: 10px;
+}
+
 section#contact {
   background-color: #c1c6c9;
   background-image: url(../img/footer.jpg);
@@ -685,8 +712,7 @@ ul.social-buttons li a {
   border-radius: 100%;
   outline: 0;
   background-color: #212529;
-  margin-top: 30px;
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
@@ -695,8 +721,8 @@ ul.social-buttons li a:hover {
 }
 
 #design {
-  color: rgb(190, 184, 184);
+  margin-top: 20px;
+  color: rgb(131, 127, 127);
   font-style: italic;
-  font-size: 14px;
+  font-size: 13px;
 }
-
