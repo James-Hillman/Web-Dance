@@ -587,6 +587,11 @@ header.masthead .intro-text .intro-heading {
   border-width: 1px;
 }
 
+@media (min-width: 768px) {
+  .timetable {
+    padding: 150px 0;
+  }
+}
 
 
 .timetable td {
@@ -599,6 +604,8 @@ header.masthead .intro-text .intro-heading {
   border-width: 1px;
   
 }
+
+
 
 .team-member {
   margin-bottom: 50px;
