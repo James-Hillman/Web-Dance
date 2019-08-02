@@ -570,7 +570,10 @@ header.masthead .intro-text .intro-heading {
 .timetable {
   margin: 0 auto;
   width: 500px;
+  max-width: 100%;
 }
+
+
 
 .timetable th {
   padding: 0 0 20px 0;
