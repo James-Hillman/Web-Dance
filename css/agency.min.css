@@ -557,6 +557,46 @@ header.masthead .intro-text .intro-heading {
     padding: 0 100px 20px 20px;
   }
 }
+
+.timetable h2 {
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+  margin-bottom: 50px; 
+}
+
+
+
+.timetable {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.timetable th {
+  padding: 0 0 20px 0;
+  text-align: center;
+  width: 100px;
+  font-size: 22px;
+  text-transform: uppercase;
+  border: #212529;
+  border-style: groove;
+  background-color: #c4abc0;
+  border-width: 1px;
+}
+
+
+
+.timetable td {
+  padding: 10px 0 20px; 0;
+  margin-bottom: 20px;
+  text-align: center;
+  width: 100px;
+  border: #212529;
+  border-style: solid;
+  border-width: 1px;
+  
+}
+
 .team-member {
   margin-bottom: 50px;
   text-align: center;
